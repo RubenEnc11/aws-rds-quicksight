@@ -1,4 +1,7 @@
-# AWS RDS (MySQL) + Amazon QuickSight — Secure Visualization
+<h1 align="center">Building a Secure MySQL Database Visualization using Amazon RDS and QuickSight</h1>
+<h3 align="center">Rubén Encinas Moreno</h3>
+
+---
 
 ## Project Overview
 This project demonstrates how to create and **securely** connect a MySQL database on **Amazon RDS** to **Amazon QuickSight** for visualization.  
@@ -84,7 +87,7 @@ I solved this by restricting access so that **only QuickSight can connect** to R
 ---
 
 ## Files
-- Report: [`docs/aws-rds-report.pdf`](docs/aws-rds-quicksight-project.pdf)
+- Report: [`docs/aws-rds-quicksight-project.pdf`](docs/aws-rds-quicksight-project.pdf)
 
 ---
 
